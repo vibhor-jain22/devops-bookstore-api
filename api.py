@@ -26,6 +26,12 @@ books = [{
         "bookDescription": "The overwhelming majority of a software system's lifespan is spent in use, not in design or implementation. So, why does conventional wisdom insist that software engineers focus primarily on the design and development of large-scale computing systems?",
         "bookAuthors" : "Betsy Beyer, Chris Jones, Jennifer Petoff"
     },
+    {
+        "bookTitle": "Docker Quick Start Guide" ,
+        "bookImage": "https://itbook.store/img/books/9781789347326.png",
+        "bookDescription": "Docker is an open source software platform that helps you with creating, deploying, and running your applications using containers. This book is your ideal introduction to Docker and containerization.",
+        "bookAuthors" : "Earl Waud"
+    }    
 ]
 
 # Schema For the Book Request JSON
